@@ -1,0 +1,4 @@
+1) pipenv --three
+2) pipfile 생성확인
+3) pipenv shell
+4) pipenv install 패키지명
